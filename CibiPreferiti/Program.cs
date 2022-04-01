@@ -1,7 +1,7 @@
 ﻿// See https://aka.ms/new-console-template for more information
 Console.WriteLine("Hello, World!");
 
-string[] cibi = { "calamari fritti", "panino alla salamella", "pizza", "formaggio", "cereali","lol" };
+string[] cibi = { "calamari fritti", "panino alla salamella", "pizza", "formaggio", "cereali" };
 Console.WriteLine("la lunghezza della dell array è: " + cibi.Length);
 
 for(int i = 0; i <= cibi.Length -1; i++)
